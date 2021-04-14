@@ -1,5 +1,5 @@
 # gene-network
-single-cell gene regulate network
-dataset：BEELINE DATA
-method：bayesian correlation 
+Bayesian correlation  single-cell directed gene regulatory network
+dataset：BEELINE DATA and experimental data
+method：max bayesian correlation with sliding window 
 
